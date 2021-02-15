@@ -1,3 +1,10 @@
+#Porject: Login and sign up 
+#By: Mirzokhid Ganiev
+#Age: 16
+#Grade: 10 G
+#Date upon finishing: Monday, 15th February 2021
+#Location: Osh, Kyrgyzstan
+
 #Imports
 
 import filecmp 
